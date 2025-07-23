@@ -6,10 +6,12 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^12.23.7",
     "gh": "^2.8.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
+    "serve": "^14.2.4",
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://jnngrlo.github.io",
@@ -45,7 +47,9 @@
     "autoprefixer": "^10.4.21",
     "gh-pages": "^6.1.1",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.11",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14",
+    "tailwindcss": "^3.3.2",
     "typescript": "^4.9.5"
   }
 }
